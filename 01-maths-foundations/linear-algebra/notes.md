@@ -61,7 +61,6 @@ In neural networks:
 ---
 
 ## Identity and Inverse Matrices
-
 - Identity matrix behaves like number 1
 - Inverse matrix helps "undo" transformations
 - Important in optimization and linear regression
